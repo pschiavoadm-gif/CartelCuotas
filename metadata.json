@@ -1,0 +1,5 @@
+{
+  "name": "Generador de Etiquetas de Precios v3",
+  "description": "Una aplicación para generar etiquetas de precios personalizables con diseños de 1, 2 o 4 etiquetas por hoja A4, lista para imprimir o guardar como PDF.",
+  "requestFramePermissions": []
+}
